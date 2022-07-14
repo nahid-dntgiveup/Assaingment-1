@@ -17,15 +17,15 @@ h2 {
     font-size: 35px;
 }
 
-.first {
-    padding-top: 230px;
+.help {
+    padding-top: 200px;
     text-align: center;
-    color: white;
+    color: ghostwhite;
 
 }
 
-.first-img {
-    background-image: url(donate-today-main/images/donation13.jpg);
+.image {
+    background-image: url(donate-today-main/images/donation7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -41,7 +41,7 @@ h2 {
     font-weight: 600;
     border-radius: 5px;
 }
-.second {
+.image-2 {
     text-align: center;
 }
 
@@ -65,7 +65,7 @@ h2 {
     padding: 30px 40px;
     border-radius: 5px;
 }
-.third {
+.image-3 {
     text-align: center;
 }
 
@@ -75,7 +75,7 @@ h2 {
 
 }
 
-.size {
+.box {
     text-align: justify;
     width: 30%;
     padding: 10px;
@@ -93,4 +93,51 @@ h2 {
     text-align: justify;
     width: 50%;
     padding: 5%;
+}
+.discription {
+    display: flex;
+    padding: 5%;
+    margin: 20px;
+}
+
+.friend {
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+.image-4 {
+    text-align: center;
+
+}
+
+button {
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+}
+
+.end {
+    text-align: center;
+    padding: 100px 50px;
+    background-color: purple;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+#name1 {
+    color: orangered;
+}
+
+footer h2 {
+    color: gold
+
+}
+
+footer p {
+    color: turquoise
 }
