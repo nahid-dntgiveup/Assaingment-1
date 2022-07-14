@@ -1,0 +1,96 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+
+section {
+    padding: 50px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+.first {
+    padding-top: 230px;
+    text-align: center;
+    color: white;
+
+}
+
+.first-img {
+    background-image: url(donate-today-main/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.second {
+    text-align: center;
+}
+
+.money1 {
+    text-decoration: none;
+    font-weight: 800;
+    color: black;
+    background-color: rgb(243, 6, 6);
+    padding: 30px 40px;
+    border-radius: 5px;
+
+
+
+}
+
+.money {
+    text-decoration: none;
+    font-weight: 800;
+    color: black;
+    background-color: wheat;
+    padding: 30px 40px;
+    border-radius: 5px;
+}
+.third {
+    text-align: center;
+}
+
+.flexible-container {
+    display: flex;
+    font-display: inherit;
+
+}
+
+.size {
+    text-align: justify;
+    width: 30%;
+    padding: 10px;
+    margin: 70px;
+    border-radius: 20px;
+    background-color: rgba(208, 208, 171, 0.632);
+}
+
+.donation-pic {
+    height: 15px;
+    width: 5px;
+}
+
+.donation {
+    text-align: justify;
+    width: 50%;
+    padding: 5%;
+}
